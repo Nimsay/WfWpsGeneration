@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfwps:WorflowWps xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wfwps="http://fr.ubo.mde.aitMaksene.wfwps">
+  <wpsLibrary xsi:type="wfwps:LocalWPS" identifier="add" title="ADD" abstract="LocalAdd" functionName="addBody">
+    <inputs identifier="a1" title="A1" abstract="valeur de la premiere entree"/>
+    <inputs identifier="a2" title="A2" abstract="valeur de la deuxieme valeur"/>
+    <outputs identifier="b" title="B" abstract="valeur de la sortie"/>
+  </wpsLibrary>
+</wfwps:WorflowWps>
